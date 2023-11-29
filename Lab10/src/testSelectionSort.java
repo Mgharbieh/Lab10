@@ -25,7 +25,7 @@ public class testSelectionSort {
 	}
 
 	public void testPositive(){
-
+		/** added for github commit **/
 		SelectionSort obj = new SelectionSort();
 
 		int[] arr = new int[5];
@@ -46,7 +46,7 @@ public class testSelectionSort {
 		assertArrayEquals(Sortedarr, resultArr);
 	}
 	public void testNegative(){
-		
+		/** added for github commit **/
 		SelectionSort obj = new SelectionSort();
 		
 		int[] arr = new int[5];
