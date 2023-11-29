@@ -70,7 +70,7 @@ public class testSelectionSort {
 	
 	public void testMixed(){
 		/** Test data contains with both positive, negative and zeros **/
-		
+		/** added for github commit **/
 		SelectionSort obj = new SelectionSort();
 		
 		int[] arr = new int[5];
@@ -94,7 +94,7 @@ public class testSelectionSort {
 	
 	public void testDuplicates(){
 		/** Test data contains duplicates **/
-		
+		/** added for github commit **/
 		SelectionSort obj = new SelectionSort();
 		
 		int[] arr = new int[5];
